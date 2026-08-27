@@ -29,5 +29,12 @@ Here is a breakdown of the certificates and learning programs I have completed, 
   * **Date:** May 9, 2026
   * **Certificate Code:** 10208119
 
+### 🖥️ Computer Networking & Systems
+* **The Bits and Bytes of Computer Networking**
+  * **Provider:** Coursera (Authorized by Google)
+  * **Skills Acquired:** Computer Networking
+  * **Date:** Nov 27, 2025
+  * **Certificate Code:** XD7A3S9RPTLI
+
 ---
 *Feel free to browse the repository to view the actual certificate files!*
